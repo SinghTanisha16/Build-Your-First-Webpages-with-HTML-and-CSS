@@ -12,9 +12,7 @@ The best part of this course was that there was no prior coding experience requi
 
 I recommend you to first complete the track and then looking to the solution files. These files are downloaded after completing the 'Let's Code' given in the chapter and then look out for solution if you think the solution is not correct.
 
-I have provided with **RAR (.rar)** files. Before accessing the files, you need to extract it using winrar or any other suitable extractor. I recommend using WinRar. You can download it from [here](https://www.win-rar.com/download.html?&L=0).
-
-To extract, just install WinRar. After installation, right click on the file and click on 'extract here' option. THe file will be extractes in the form of a folder.
+Please don't hesitate to drop a quesry or request.
 
 #### Happy Coding!
 

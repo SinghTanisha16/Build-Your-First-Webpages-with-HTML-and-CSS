@@ -1,7 +1,7 @@
 # Build Your First Webpages with HTML and CSS
 ## By OpenClassrooms (Tracks provided by Facebook Developer Circles)
 
-The best part of this course was that there was no prior coding experience required. The learning goals as from the [website](https://www.win-rar.com/download.html?&L=0) were:
+The best part of this course was that there was no prior coding experience required. The instructor for the course was [Emily Reese](https://openclassrooms.com/en/membres/emilyreese). You can follow her on Twitter [here](https://twitter.com/eclairereese). The learning goals as from the [website](https://www.win-rar.com/download.html?&L=0) were:
 * Build a first web page with HTML and CSS
 * Distinguish between HTML and CSS and identify their separate uses
 * Identify and apply correct syntax for common HTML elements

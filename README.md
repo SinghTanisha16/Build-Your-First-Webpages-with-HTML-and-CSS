@@ -14,6 +14,8 @@ I recommend you to first complete the track and then looking to the solution fil
 
 Please don't hesitate to drop a quesry or request.
 
+The solution for the quizzes is not uploaded yet.
+
 #### Happy Coding!
 
 
